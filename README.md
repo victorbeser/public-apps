@@ -10,7 +10,7 @@ _
 
 Como sabemos, fazer o download de vídeos no youtube, de forma fácil, prática e acessível pode ser um desafio, já que muitos sites ou estão fora do ar ou possuem ADs suficiente para atrapalhar o download de qualquer um, fora que as aplicações de download a partir de links do youtube são pagas, caso você seja um Dev entusiasta e queira estudar mais afundo códigos semelhantes.
 
-Aqui vai um Youtube Download gratuito e básico, sem direitos autorais meus para você usar como bem quiser, basta inserir o Link do youtube, selecionar MP3 ou MP4 e clicar em baixar!
+Aqui vai um Youtube Downloader gratuito e básico, sem direitos autorais meus para você usar como bem quiser, basta inserir o Link do youtube, selecionar MP3 ou MP4 e clicar em baixar!
 
 <img width="401" alt="image" src="https://github.com/victorbeser/public-apps/assets/58988379/74d5a69e-a486-43db-bb55-232c2ebd1e71">
 
