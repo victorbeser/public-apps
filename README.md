@@ -19,3 +19,7 @@ Aqui vai um Youtube Download gratuito e básico, sem direitos autorais meus para
 <a target="_blank" href="https://github.com/victorbeser/public-apps-youtubedownloader">Clique aqui para realizar o Download ou Visualizar o código!</a>
 <br>
 <p style="font-size: 10pt;">PS: Deixei uma versão .exe (executável) para Windows e outra para MacOS (tenho certeza que a galera do Linux não vai precisar) disponíveis caso queiram apenas o programa para baixar seus vídeos e músicas =)</p>
+
+_
+
+<h5>Mais aplicações em breve...</h5>
