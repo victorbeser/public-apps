@@ -22,4 +22,18 @@ Aqui vai um Youtube Downloader gratuito e básico, sem direitos autorais meus pa
 
 _
 
+<h3>Conversor XML para PDF</h3>
+
+Inicialmente projetado pra converter notas fiscais em XML para PDF, de forma simples e prática, sendo código aberto sinta-se livre para usar como bem entender.
+
+<img width="402" alt="image" src="https://github.com/victorbeser/public-apps/assets/58988379/64b665b3-3e28-4e3e-a79f-798f029815c4">
+
+<h4>Download:</h4>
+
+<a target="_blank" href="https://github.com/victorbeser/public-apps-xmlpdf">Clique aqui para realizar o Download ou Visualizar o código!</a>
+<br>
+<p style="font-size: 10pt;">PS: Deixei uma versão .exe (executável) para Windows disponível caso queiram apenas o programa =)</p>
+
+_
+
 <h5>Mais aplicações em breve...</h5>
