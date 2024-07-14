@@ -36,4 +36,11 @@ Inicialmente projetado pra converter notas fiscais em XML para PDF, de forma sim
 
 _
 
+<h3>API WhatsApp com Node JS</h3>
+
+API utilizando a biblioteca WhatsApp Web JS, com bug fix e facilitada para o desenvolvimento de assistentes e etc.
+
+<a target="_blank" href="https://quinzeconto.com.br/blog/article.php?id=19">Clique aqui para realizar o Download ou Visualizar o código!</a>
+_
+
 <h5>Mais aplicações em breve...</h5>
