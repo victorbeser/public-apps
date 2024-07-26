@@ -1,8 +1,8 @@
 # Aplicações Públicas (no copyrights) disponibilizadas GRATUITAMENTE!
 
-Esse é um projeto que eu iniciei no TikTok para desenvolver e disponibilizar aplicações diversas que são inicialmente pagas (e claro, sem copyright) para o público de forma gratuita.
+Esse é um projeto que eu iniciei para desenvolver e disponibilizar aplicações diversas que são inicialmente pagas (e claro, sem copyright) para o público de forma gratuita.
 
-Então se você tem alguma aplicação que gostaria que fosse disponível e de graça, mande sua sugestão no TikTok @victorbeser
+Então se você tem alguma aplicação que gostaria que fosse disponível e de graça, mande sua sugestão!
 
 _
 
