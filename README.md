@@ -43,4 +43,15 @@ API utilizando a biblioteca WhatsApp Web JS, com bug fix e facilitada para o des
 <a target="_blank" href="https://quinzeconto.com.br/blog/article.php?id=19">Clique aqui para realizar o Download ou Visualizar o código!</a>
 _
 
+
+
+<h3>Download de Playlist Youtube</h3>
+
+Faça o download de centenas de músicas de uma playlist no youtube!
+
+![image](https://github.com/user-attachments/assets/b01a77a4-fd21-4989-b970-52a87f611640)
+
+<a target="_blank" href="https://github.com/victorbeser/public-apps-playlistdownloader">Clique aqui para realizar o Download ou Visualizar o código!</a>
+_
+
 <h5>Mais aplicações em breve...</h5>
